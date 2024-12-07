@@ -1,5 +1,4 @@
 client_err/
-client/*.mp4
 main_doc.py
 .DS_Store
 migrations/
