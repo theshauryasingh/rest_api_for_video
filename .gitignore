@@ -1,0 +1,7 @@
+client_err/
+main_doc.py
+.DS_Store
+migrations/
+__pycache__/
+*.pyc
+*.db
